@@ -8,10 +8,10 @@ using var channel = connection.CreateModel();
 
 channel.QueueDeclare(queue:"letterbox", durable:false,exclusive:false,autoDelete:false, arguments:null);
 
-var msg = "this is my first message";
+var msg = "this is my third message";
 
 var encodedMsg = Encoding.UTF8.GetBytes(msg);
 
 channel.BasicPublish("", "letterbox", null, encodedMsg);
 
-Console.WriteLine($"Message published{msg}");
+Console.WriteLine($"Message published : {msg}");

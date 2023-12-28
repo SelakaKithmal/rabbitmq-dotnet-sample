@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\producer.csproj": {}
+    "D:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\producer.csproj": {}
   },
   "projects": {
-    "d:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\producer.csproj": {
+    "D:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\producer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\producer.csproj",
+        "projectUniqueName": "D:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\producer.csproj",
         "projectName": "producer",
-        "projectPath": "d:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\producer.csproj",
+        "projectPath": "D:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\producer.csproj",
         "packagesPath": "C:\\Users\\SELAKA\\.nuget\\packages\\",
-        "outputPath": "d:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\obj\\",
+        "outputPath": "D:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

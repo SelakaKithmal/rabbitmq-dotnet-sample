@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "94JFdLbeTvR4inR1q8JUSyQFy6m8PobkD7eefx3bOTtyxXzhlFrPKcWKi4jr+6/QC0+b/MxTOSajSvoIYcBxZQ==",
+  "dgSpecHash": "pHX7oDoTXzu9cCWEneFjbryWpnSCSeRX93yj5GFq8XADHo4eXzHufULC2D5xmG/9UYsgNjCbfZ0UNHz5rAvDPg==",
   "success": true,
-  "projectFilePath": "D:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\producer.csproj",
+  "projectFilePath": "D:\\PROJECTS\\rabbitMq-dotnet-sample\\consumer\\consumer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SELAKA\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
     "C:\\Users\\SELAKA\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

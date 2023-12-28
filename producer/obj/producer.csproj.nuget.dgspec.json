@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\producer.csproj": {}
+    "d:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\producer.csproj": {}
   },
   "projects": {
-    "D:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\producer.csproj": {
+    "d:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\producer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\producer.csproj",
+        "projectUniqueName": "d:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\producer.csproj",
         "projectName": "producer",
-        "projectPath": "D:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\producer.csproj",
+        "projectPath": "d:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\producer.csproj",
         "packagesPath": "C:\\Users\\SELAKA\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\obj\\",
+        "outputPath": "d:\\PROJECTS\\rabbitMq-dotnet-sample\\producer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
